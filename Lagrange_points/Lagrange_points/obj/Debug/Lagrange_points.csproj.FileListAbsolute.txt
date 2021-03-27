@@ -1,0 +1,10 @@
+C:\Users\Mighty_Owl\source\repos\Lagrange_points\Lagrange_points\bin\Debug\Lagrange_points.exe.config
+C:\Users\Mighty_Owl\source\repos\Lagrange_points\Lagrange_points\bin\Debug\Lagrange_points.exe
+C:\Users\Mighty_Owl\source\repos\Lagrange_points\Lagrange_points\bin\Debug\Lagrange_points.pdb
+C:\Users\Mighty_Owl\source\repos\Lagrange_points\Lagrange_points\obj\Debug\Lagrange_points.csprojAssemblyReference.cache
+C:\Users\Mighty_Owl\source\repos\Lagrange_points\Lagrange_points\obj\Debug\Lagrange_points.main_form.resources
+C:\Users\Mighty_Owl\source\repos\Lagrange_points\Lagrange_points\obj\Debug\Lagrange_points.Properties.Resources.resources
+C:\Users\Mighty_Owl\source\repos\Lagrange_points\Lagrange_points\obj\Debug\Lagrange_points.csproj.GenerateResource.cache
+C:\Users\Mighty_Owl\source\repos\Lagrange_points\Lagrange_points\obj\Debug\Lagrange_points.exe
+C:\Users\Mighty_Owl\source\repos\Lagrange_points\Lagrange_points\obj\Debug\Lagrange_points.pdb
+C:\Users\Mighty_Owl\source\repos\Lagrange_points\Lagrange_points\obj\Debug\Lagrange_points.Inpt_box.resources
